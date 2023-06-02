@@ -1,5 +1,0 @@
-/Users/eka/Desktop/Учеба/Homework_sem3_27_05/Task additional/obj/Debug/net6.0/Task additional.csproj.AssemblyReference.cache
-/Users/eka/Desktop/Учеба/Homework_sem3_27_05/Task additional/obj/Debug/net6.0/Task additional.GeneratedMSBuildEditorConfig.editorconfig
-/Users/eka/Desktop/Учеба/Homework_sem3_27_05/Task additional/obj/Debug/net6.0/Task additional.AssemblyInfoInputs.cache
-/Users/eka/Desktop/Учеба/Homework_sem3_27_05/Task additional/obj/Debug/net6.0/Task additional.AssemblyInfo.cs
-/Users/eka/Desktop/Учеба/Homework_sem3_27_05/Task additional/obj/Debug/net6.0/Task additional.csproj.CoreCompileInputs.cache
